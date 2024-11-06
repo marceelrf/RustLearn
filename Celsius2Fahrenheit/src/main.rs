@@ -2,6 +2,7 @@ use std::io;
 
 fn main() {
     loop {
+        // Define o texto de ajuda do inicio do programa
         println!("Temperature Conversion Program");
         println!("1. Convert Fahrenheit to Celsius");
         println!("2. Convert Celsius to Fahrenheit");
